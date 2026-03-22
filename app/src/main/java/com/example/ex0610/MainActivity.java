@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Switch sw;
+    private Switch sw ;
     private ToggleButton tb;
     private Button btn;
     private LinearLayout layout;
