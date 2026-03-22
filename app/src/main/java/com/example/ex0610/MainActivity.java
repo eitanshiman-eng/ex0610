@@ -21,4 +21,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-    
+        sw = findViewById(R.id.mySwitch);
+        tb = findViewById(R.id.myToggleButton);
+        btn = findViewById(R.id.btnClick);
+        layout = findViewById(R.id.mainLayout);
+
+    }
+}
